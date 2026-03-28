@@ -28,7 +28,7 @@ from reportlab.lib.utils import ImageReader
 # BRANDING & THEME
 # =========================
 APP_TITLE = "OLSEM ver.a (Online Line Method Shoreline Evolution)"
-BRAND = "by. Ir. Muhammad Fadly, S.T, MT"
+BRAND = "by. OCEAN TECHNO"
 
 st.set_page_config(page_title=APP_TITLE, layout="wide")
 
