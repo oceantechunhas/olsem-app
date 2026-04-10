@@ -84,7 +84,7 @@ def check_password():
     """Returns True if the user had the correct password."""
     def password_entered():
         # VALIDASI PASSWORD (Ubah di sini jika ingin mengganti password)
-        if st.session_state["password"] == "D2102014": 
+        if st.session_state["password"] == "D32102014": 
             st.session_state["password_correct"] = True
             del st.session_state["password"]  # Hapus password dari memori session
         else:
